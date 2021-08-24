@@ -1,1 +1,1 @@
-this is my application tutor for git and github
+this is my application tutor for git and github  i think will be good as starter of this two applications
